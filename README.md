@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miroslav
+Hi ![]([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://i.pinimg.com/736x/cc/6c/6a/cc6c6a4bc00a839602f979fd6c885392.jpg))My name is Miroslav
 ================================================================================================================================
-
-[![trophy](https://github-profile-trophy.vercel.app/b221b=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
-https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers
 
 Backend developer
 -----------------
