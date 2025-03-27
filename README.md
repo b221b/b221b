@@ -48,7 +48,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -78,6 +78,6 @@
 
 ###
 
-<p align="left">name: Half-year calendar<br>uses: lowlighter/metrics@latest<br>with:<br>  filename: metrics.plugin.isocalendar.svg<br>  token: ${{ secrets.METRICS_TOKEN }}<br>  base: ""<br>  plugin_isocalendar: yes</p>
+<p align="left">name: 📅 Isometric commit calendar<br>category: github<br>description: |<br>  This plugin displays an isometric view of a user commit calendar along with a few additional statistics like current streak and average number of commit per day.<br>examples:<br>  +full year calendar: https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg<br>  half year calendar: https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg<br>index: 0<br>supports:<br>  - user<br>scopes:<br>  - public_access<br>inputs:<br><br>  plugin_isocalendar:<br>    description: |<br>      Enable isocalendar plugin<br>    type: boolean<br>    default: no<br><br>  plugin_isocalendar_duration:<br>    description: |<br>      Time range<br><br>      - `half-year`: 180 days<br>      - `full-year`: 1 year<br>    type: string<br>    default: half-year<br>    values:<br>      - half-year<br>      - full-year</p>
 
 ###
