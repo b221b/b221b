@@ -77,3 +77,9 @@
 <img align="left" height="250" src="https://camo.githubusercontent.com/4171d19523de6a8ce512c3991494442bfcd6e6c52ea76975ab7dba1f6d1bda7d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f796f67657368776172616e30312f6769746875622d73746174732d7465726d696e616c2d7374796c65406c61746573742f7468656d65732f6861636b65722e737667"  />
 
 ###
+
+<div align="right">
+  <img src="https://github-profile-trophy.vercel.app?username=b221b&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
