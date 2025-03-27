@@ -44,12 +44,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/b221b/b221b/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="center">All skils</p>
 
 ###
@@ -80,10 +74,10 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/b221b/b221b/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/b221b/b221b/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/b221b/b221b/output/pacman-contribution-graph.svg">
-</picture>
+<img align="left" height="250" src="https://camo.githubusercontent.com/4171d19523de6a8ce512c3991494442bfcd6e6c52ea76975ab7dba1f6d1bda7d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f796f67657368776172616e30312f6769746875622d73746174732d7465726d696e616c2d7374796c65406c61746573742f7468656d65732f6861636b65722e737667"  />
+
+###
+
+<p align="left">name: Half-year calendar<br>uses: lowlighter/metrics@latest<br>with:<br>  filename: metrics.plugin.isocalendar.svg<br>  token: ${{ secrets.METRICS_TOKEN }}<br>  base: ""<br>  plugin_isocalendar: yes</p>
 
 ###
