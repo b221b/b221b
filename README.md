@@ -11,8 +11,23 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=b221b&theme=redical&area=true&hide_border=false&hide_title=false" height="150" alt="activity-graph graph"  />
 </div>
 
+<br>
+<h6 align="left">🐉My name is Miroslav, I'm 21, I'm a fourth-year student.<br><br>I have knowledge of all major programming languages, including JS, Java, PHP, Python, and C++, if we talk specifically about PHP, I worked on a project based on Yii2, mysql, also developed a CRUD interface on Laravel + a frontend on Blade/React/Vue, also worked with Docker. I have basic knowledge of commands in the Linux & Windows console.<br>I have an idea of ​​the principles of OOP. I know and understand how SQL queries work.</h6>
+
 ###
 
+<img align="right" height="200" src="https://i.pinimg.com/originals/2f/75/2e/2f752e58027eba60ccec8d8cfa000d78.gif"  />
+
+###
+
+<h6 align="left">✅I am in my last semester of university, pre-graduation practice.<br><br>🎊I would like to find my first commercial experience and work in a team.<br><br>🖥I will be glad to mutually beneficial cooperation.<br><br>🕰I am available for a conversation at any time.<br><br>Best regards, Titarenko Miroslav.</h6>
+
+###
+<br>
+
+###
+
+<br>
 <h3 align="center">Tech Stack</h3>
 
 ###
@@ -30,6 +45,7 @@
 </div>
 
 ###
+<br>
 
 <img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/648877624326358082/18EBFCD743FB96FF395F3DA280234EE7B4C863E8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
@@ -73,6 +89,8 @@
 </div>
 
 ### -->
+<br>
+<br>
 <div align="center">
 
 # 💻Languages ​​and tools that I have worked with
