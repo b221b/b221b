@@ -42,8 +42,6 @@
 </div>
 
 ###
-# 
-
 
 <img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/648877624326358082/18EBFCD743FB96FF395F3DA280234EE7B4C863E8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
@@ -74,6 +72,12 @@
 
 <div align="right">
   <img src="https://github-profile-trophy.vercel.app?username=b221b&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="350" src="https://i.pinimg.com/originals/b8/02/72/b8027272774cf4a075e1112e4aec20b3.gif"  />
 </div>
 
 ###
