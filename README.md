@@ -12,7 +12,7 @@
 </div>
 
 <br>
-<h6 align="left">🐉My name is Miroslav, I'm 21, I'm a fourth-year student.<br><br>I have knowledge of all major programming languages, including JS, Java, PHP, Python, and C++, if we talk specifically about PHP, I worked on a project based on Yii2, mysql, also developed a CRUD interface on Laravel + a frontend on Blade/React/Vue, also worked with Docker. I have basic knowledge of commands in the Linux & Windows console.<br>I have an idea of ​​the principles of OOP. I know and understand how SQL queries work.</h6>
+<h6 align="left">🐉My name is Miroslav, I'm 21, I'm a fourth-year student.<br><br>I have knowledge of all major programming languages, including JS, Java, PHP, Python, and C++, if we talk specifically about PHP, I worked on a project based on Yii2, mysql, also developed a CRUD interface on Laravel + a frontend on Blade/React/Vue, also worked with Docker. I have basic knowledge of commands in the Linux & Windows console.</h6>
 
 ###
 
@@ -20,10 +20,7 @@
 
 ###
 
-<h6 align="left">✅I am in my last semester of university, pre-graduation practice.<br><br>🎊I would like to find my first commercial experience and work in a team.<br><br>🖥I will be glad to mutually beneficial cooperation.<br><br>🕰I am available for a conversation at any time.<br><br>Best regards, Titarenko Miroslav.</h6>
-
-###
-<br>
+<h6 align="left">📚I have an idea of ​​the principles of OOP. I know and understand how SQL queries work.<br><br>✅I am in my last semester of university, pre-graduation practice.<br><br>🎊I would like to find my first commercial experience and work in a team.<br><br>🖥I will be glad to mutually beneficial cooperation.<br><br>🕰I am available for a conversation at any time.<br><br>Best regards, Titarenko Miroslav.</h6>
 
 ###
 
@@ -45,7 +42,8 @@
 </div>
 
 ###
-<br>
+# 
+
 
 <img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/648877624326358082/18EBFCD743FB96FF395F3DA280234EE7B4C863E8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
@@ -60,35 +58,6 @@
 
 ###
 
-<!-- <p align="center">All skils</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" height="40" alt="yii logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
-
-### -->
 <br>
 <br>
 <div align="center">
