@@ -1,4 +1,4 @@
-<h2 align="center">Miroslav, Backend developer</h2>
+<!-- <h2 align="center">Miroslav, Backend developer</h2> -->
 
 ###
 
@@ -12,7 +12,12 @@
 </div>
 
 <br>
-<h6 align="left">🐉My name is Miroslav, I'm 21, I'm a fourth-year student.<br><br>I have knowledge of all major programming languages, including JS, Java, PHP, Python, and C++, if we talk specifically about PHP, I worked on a project based on Yii2, mysql, also developed a CRUD interface on Laravel + a frontend on Blade/React/Vue, also worked with Docker. I have basic knowledge of commands in the Linux & Windows console.</h6>
+<br>
+
+<h3 align="center">🐉My name is Miroslav, I'm backend developer.</h3>
+
+#
+<h4 align="left">I have knowledge of all major programming languages, including JS, Java, PHP, Python, and C++, if we talk specifically about PHP, I worked on a project based on Yii2, mysql, also developed a CRUD interface on Laravel + a frontend on Blade/React/Vue, also worked with Docker. I have basic knowledge of commands in the Linux & Windows console.</h4>
 
 ###
 
@@ -20,11 +25,13 @@
 
 ###
 
-<h6 align="left">📚I have an idea of ​​the principles of OOP. I know and understand how SQL queries work.<br><br>✅I am in my last semester of university, pre-graduation practice.<br><br>🎊I would like to find my first commercial experience and work in a team.<br><br>🖥I will be glad to mutually beneficial cooperation.<br><br>🕰I am available for a conversation at any time.<br><br>Best regards, Titarenko Miroslav.</h6>
+<h5 align="left">📚I have an idea of ​​the principles of OOP. I know and understand how SQL queries work.<br><br>✅I am in my last semester of university, pre-graduation practice.<br><br>🎊I would like to find my first commercial experience and work in a team.<br><br>🖥I will be glad to mutually beneficial cooperation.<br><br>🕰I am available for a conversation at any time.<br><br>Best regards, Titarenko Miroslav.</h5>
 
 ###
 
 <br>
+
+#
 <h3 align="center">Tech Stack</h3>
 
 ###
@@ -43,6 +50,7 @@
 
 ###
 
+#
 <img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/648877624326358082/18EBFCD743FB96FF395F3DA280234EE7B4C863E8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###
@@ -81,3 +89,5 @@
 </div>
 
 ###
+
+#
