@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="340" src="https://i.pinimg.com/originals/3c/dd/d6/3cddd65b741761997e9e3caf61be7404.gif"  />
+  <img height="100%" src="https://i.pinimg.com/originals/3c/dd/d6/3cddd65b741761997e9e3caf61be7404.gif"  />
 </div>
 
 ###
@@ -114,14 +114,6 @@
 
 <div align="center">
   <img height="350" src="https://i.pinimg.com/originals/b8/02/72/b8027272774cf4a075e1112e4aec20b3.gif"  />
-</div>
-
-###
-
-#
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
