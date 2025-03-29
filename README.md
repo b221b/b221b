@@ -2,7 +2,11 @@
 
 ###
 
-<img align="left" height="326" src="https://i.pinimg.com/originals/60/03/0e/60030eb651d4f7965b67dceab21484b7.gif"  />
+<img align="center" height="300" src="https://i.pinimg.com/originals/3c/dd/d6/3cddd65b741761997e9e3caf61be7404.gif"  />
+
+###
+
+<!-- <img align="left" height="326" src="https://i.pinimg.com/originals/60/03/0e/60030eb651d4f7965b67dceab21484b7.gif"  />
 
 ###
 
@@ -11,8 +15,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=b221b&theme=redical&area=true&hide_border=false&hide_title=false" height="150" alt="activity-graph graph"  />
 </div>
 
-<br>
-<br>
+<br> -->
+<!-- <br> -->
 
 <h3 align="center">🐉My name is Miroslav, I'm backend developer.</h3>
 
@@ -21,7 +25,9 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/2f/75/2e/2f752e58027eba60ccec8d8cfa000d78.gif"  />
+<!-- <img align="right" height="200" src="https://i.pinimg.com/originals/2f/75/2e/2f752e58027eba60ccec8d8cfa000d78.gif"  /> -->
+
+<img align="right" height="200" src="https://i.pinimg.com/736x/e6/0d/a3/e60da318b135e5130c1d45e7789767af.jpg"  />
 
 ###
 
@@ -93,6 +99,13 @@
 
 <div align="right">
   <img src="https://github-profile-trophy.vercel.app?username=b221b&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=b221b&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=b221b&theme=redical&area=true" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
