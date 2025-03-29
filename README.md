@@ -2,8 +2,8 @@
 
 ###
 
-<div align="center">
-  <img height="100%" src="https://i.pinimg.com/originals/3c/dd/d6/3cddd65b741761997e9e3caf61be7404.gif"  />
+<div style="width: 100%; overflow: hidden; position: relative;">
+  <img src="https://i.pinimg.com/originals/3c/dd/d6/3cddd65b741761997e9e3caf61be7404.gif" style="width: 100%; height: auto; display: block;" />
 </div>
 
 ###
@@ -64,6 +64,10 @@
 ###
 
 <br>
+<br>
+<br>
+<br>
+<br>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -112,8 +116,8 @@
 
 ###
 
-<div align="center">
-  <img height="350" src="https://i.pinimg.com/originals/b8/02/72/b8027272774cf4a075e1112e4aec20b3.gif"  />
+<div style="width: 100%; overflow: hidden; position: relative;">
+  <img src="https://i.pinimg.com/originals/b8/02/72/b8027272774cf4a075e1112e4aec20b3.gif" style="width: 100%; height: auto; display: block;" />
 </div>
 
 ###
