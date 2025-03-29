@@ -1,9 +1,8 @@
 ###
 
-<div style="display: flex; justify-content: center; width: 100%; overflow: hidden;">
-  <img src="https://i.pinimg.com/originals/3c/dd/d6/3cddd65b741761997e9e3caf61be7404.gif" style="width: 100%; height: auto; display: block;" />
+<div style="width: 100%; overflow: hidden; position: relative;">
+  <img src="https://i.pinimg.com/originals/b8/02/72/b8027272774cf4a075e1112e4aec20b3.gif" style="width: 100%; height: auto; display: block;" />
 </div>
-
 
 ###
 
