@@ -2,7 +2,9 @@
 
 ###
 
-<img align="center" height="300" src="https://i.pinimg.com/originals/3c/dd/d6/3cddd65b741761997e9e3caf61be7404.gif"  />
+<div align="center">
+  <img height="340" src="https://i.pinimg.com/originals/3c/dd/d6/3cddd65b741761997e9e3caf61be7404.gif"  />
+</div>
 
 ###
 
@@ -18,7 +20,7 @@
 <br> -->
 <!-- <br> -->
 
-<h3 align="center">🐉My name is Miroslav, I'm backend developer.</h3>
+<h3 align="center">🐉Hi, my name is Miroslav, I'm backend developer.</h3>
 
 #
 <h4 align="left">I have knowledge of all major programming languages, including JS, Java, PHP, Python, and C++, if we talk specifically about PHP, I worked on a project based on Yii2, mysql, also developed a CRUD interface on Laravel + a frontend on Blade/React/Vue, also worked with Docker. I have basic knowledge of commands in the Linux & Windows console.</h4>
@@ -117,3 +119,9 @@
 ###
 
 #
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
