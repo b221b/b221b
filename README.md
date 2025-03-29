@@ -1,24 +1,10 @@
-<!-- <h2 align="center">Miroslav, Backend developer</h2> -->
-
 ###
 
-<div style="width: 100%; overflow: hidden; position: relative;">
+<div style="width: 100%; overflow: hidden; position: relative; align=center">
   <img src="https://i.pinimg.com/originals/3c/dd/d6/3cddd65b741761997e9e3caf61be7404.gif" style="width: 100%; height: auto; display: block;" />
 </div>
 
 ###
-
-<!-- <img align="left" height="326" src="https://i.pinimg.com/originals/60/03/0e/60030eb651d4f7965b67dceab21484b7.gif"  />
-
-###
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=b221b&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=b221b&theme=redical&area=true&hide_border=false&hide_title=false" height="150" alt="activity-graph graph"  />
-</div>
-
-<br> -->
-<!-- <br> -->
 
 <h3 align="center">🐉Hi, my name is Miroslav, I'm backend developer.</h3>
 
