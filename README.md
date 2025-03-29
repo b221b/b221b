@@ -1,7 +1,7 @@
 ###
 
 <div style="width: 100%; overflow: hidden; position: relative;">
-  <img src="https://i.pinimg.com/originals/b8/02/72/b8027272774cf4a075e1112e4aec20b3.gif" style="width: 100%; height: auto; display: block;" />
+  <img src="https://i.pinimg.com/originals/86/63/fe/8663fe022ace8e1e48219e3c3861abfc.gif" style="width: 100%; height: auto; display: block;" />
 </div>
 
 ###
