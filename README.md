@@ -1,11 +1,9 @@
 ###
 
-<!-- <div style="width: 100%; overflow: hidden; position: relative; align=center">
+<div style="display: flex; justify-content: center; width: 100%; overflow: hidden;">
   <img src="https://i.pinimg.com/originals/3c/dd/d6/3cddd65b741761997e9e3caf61be7404.gif" style="width: 100%; height: auto; display: block;" />
-</div> -->
+</div>
 
-<img align="right" height="320" src="https://i.pinimg.com/originals/3c/dd/d6/3cddd65b741761997e9e3caf61be7404.gif"  />
-<br>
 
 ###
 
