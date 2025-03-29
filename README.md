@@ -1,7 +1,11 @@
 ###
 
-<div style="width: 100%; overflow: hidden; position: relative;">
+<!-- <div style="width: 100%; overflow: hidden; position: relative;">
   <img src="https://i.pinimg.com/originals/86/63/fe/8663fe022ace8e1e48219e3c3861abfc.gif" style="width: 100%; height: auto; display: block;" />
+</div> -->
+
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/originals/86/63/fe/8663fe022ace8e1e48219e3c3861abfc.gif"  />
 </div>
 
 ###
