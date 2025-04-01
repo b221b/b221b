@@ -23,7 +23,7 @@
 
 ###
 
-<h5 align="left">📚I have an idea of ​​the principles of OOP. I know and understand how SQL queries work.<br><br>✅I am in my last semester of university, pre-graduation practice.<br><br>🎊I would like to find my first commercial experience and work in a team.<br><br>🖥I will be glad to mutually beneficial cooperation.<br><br>🕰I am available for a conversation at any time. </h5>
+<h5 align="left">📚I have an idea of ​​the principles of OOP. I know and understand how SQL queries work.<br><br>✅I am in my last semester of university, pre-graduation practice.<br><br>🎊I would like to find my first commercial experience and work in a team.<br><br>🖥I will be glad to mutually beneficial cooperation.<br><br>🕰I am available for a conversation at any time.</h5>
 
 ###
 
