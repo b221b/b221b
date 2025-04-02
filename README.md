@@ -97,7 +97,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=b221b&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=b221b&theme=redical&area=true" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=b221b&theme=redical" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
