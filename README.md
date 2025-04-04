@@ -47,7 +47,9 @@
 ###
 
 #
-<img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/648877624326358082/18EBFCD743FB96FF395F3DA280234EE7B4C863E8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+<!-- <img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/648877624326358082/18EBFCD743FB96FF395F3DA280234EE7B4C863E8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  /> -->
+
+<img align="right" height="450" src="68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e6b697474696e616e782e636f6d2f6170692f766965773f7569643d33316366737870757065756b346b6f74346f7974357666777278646d26636f7665725f696d6167653d74727565267468656.svg">
 
 ###
 
@@ -309,26 +311,25 @@ erDiagram
 ```
 
 ```mermaid
-flowchart TD
-    A[SQL Запрос] --> B[SELECT]
+flowchart TB
+    A[SQL Запросы] --> B[SELECT]
+    B --> B1["```sql\nSELECT * FROM users\nWHERE age > 18\nORDER BY name\n```"]
+    B --> B2["```sql\nSELECT count(*), department\nFROM employees\nGROUP BY department\n```"]
+    
     A --> C[INSERT]
+    C --> C1["```sql\nINSERT INTO products\n(name, price) VALUES\n('Phone', 599.99)\n```"]
+    
     A --> D[UPDATE]
+    D --> D1["```sql\nUPDATE employees\nSET salary = salary * 1.1\nWHERE rating > 8\n```"]
+    
     A --> E[DELETE]
+    E --> E1["```sql\nDELETE FROM logs\nWHERE created_at < '2023-01-01'\n```"]
+    
     A --> F[CREATE]
-    
-    B --> B1["SELECT * FROM users<br>WHERE age > 18<br>ORDER BY name"]
-    B --> B2["SELECT count(*), department<br>FROM employees<br>GROUP BY department"]
-    
-    C --> C1["INSERT INTO products<br>(name, price) VALUES<br>('Phone', 599.99)"]
-    
-    D --> D1["UPDATE employees<br>SET salary = salary * 1.1<br>WHERE rating > 8"]
-    
-    E --> E1["DELETE FROM logs<br>WHERE created_at < '2023-01-01'"]
-    
-    F --> F1["CREATE TABLE users (<br>id INT PRIMARY KEY,<br>name VARCHAR(50)<br>)"]
-    F --> F2["CREATE INDEX idx_email<br>ON users(email)"]
-    
-    style A fill:#4CAF50,stroke:#333
+    F --> F1["```sql\nCREATE TABLE users (\nid INT PRIMARY KEY,\nname VARCHAR(50)\n)\n```"]
+    F --> F2["```sql\nCREATE INDEX idx_email\nON users(email)\n```"]
+
+    style A fill:#4CAF50,stroke:#333,stroke-width:2px
     style B fill:#2196F3,stroke:#333
     style C fill:#FF9800,stroke:#333
     style D fill:#9C27B0,stroke:#333
