@@ -147,18 +147,18 @@ graph TD
 
 | Функция 1 | Функция 2 |
 |-----------|-----------|
-| <img src="screenshots/1.png" width="300"> | <img src="screenshots/2.png" width="300"> |
+| <img src="https://i.pinimg.com/736x/89/b9/05/89b905a6d34d3e3c63a3610a0b1f495a.jpg" width="200"> | <img src="https://i.pinimg.com/736x/77/c3/4b/77c34b41be09ad70218a963ce54fbd26.jpg" width="155"> |
 
 - 🖥️ **CPU**: Intel i5+
 - 🧠 **RAM**: 8GB+ 
 - 🐍 **Python**: 3.8+
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=ВАШ_ID&cover_image=true"/>
+  <img src="https://github.com/kittinan/spotify-github-profile/blob/master/img/default.svg"/>
 </div>
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=ВАШ_ID&cover_image=true"/>
+  <img src="https://github.com/kittinan/spotify-github-profile/blob/master/img/novatorem.svg"/>
 </div>
 
 ## 🚀 Особенности
