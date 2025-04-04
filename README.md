@@ -108,10 +108,59 @@
 
 ###
 
-<a href="https://music.yandex.ru/album/35922855/track/137459525" target="_blank">
-  <img src="https://img.shields.io/badge/🎵_Listen_on_Yandex.Music-FF0000?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex Music">
-</a>
+```python
+def hello_world():
+    print("Привет, GitHub!")
+```
 
-[![Обложка альбома](https://avatars.yandex.net/get-music-content/14439424/156d711e.a.35922855-1/300x300)](https://music.yandex.ru/album/35922855/track/137459525)
+[//]: # (Пример из файла)
+```python
+# @file: main.py
+from module import function
 
-[Открыть музыкальный плеер](https://b221b.github.io/sportify/)
+
+---
+
+### 4. **Встроенный просмотр GitHub Pages**
+Через изображение-ссылку:
+```markdown
+[![Demo](https://img.shields.io/badge/🚀_Live_Demo-FF6B6B?style=for-the-badge)](https://ВАШ_НИК.github.io/РЕПОЗИТОРИЙ)
+```
+
+[![Demo](https://img.shields.io/badge/🚀_Live_Demo-FF6B6B?style=for-the-badge)](https://ВАШ_НИК.github.io/РЕПОЗИТОРИЙ)
+
+[![Demo](https://api.screenshotmachine.com/?key=YOUR_KEY&url=https://ВАШ_НИК.github.io/РЕПОЗИТОРИЙ&dimension=720x540)](https://ВАШ_НИК.github.io/РЕПОЗИТОРИЙ)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Добро+пожаловать+в+мой+репозиторий!;Здесь+живёт+крутой+код!&color=FF0000&center=true)
+
+[![3D Model](https://img.shields.io/badge/🦊_3D_Model-View_Online-blue)](https://glitch.com/~YOUR-MODEL)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+```mermaid
+graph TD
+    A[Идея] --> B(Код)
+    B --> C{Работает?}
+    C -->|Да| D[🎉]
+    C -->|Нет| E[🔧]
+```
+
+| Функция 1 | Функция 2 |
+|-----------|-----------|
+| <img src="screenshots/1.png" width="300"> | <img src="screenshots/2.png" width="300"> |
+
+- 🖥️ **CPU**: Intel i5+
+- 🧠 **RAM**: 8GB+ 
+- 🐍 **Python**: 3.8+
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=ВАШ_ID&cover_image=true"/>
+</div>
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=ВАШ_ID&cover_image=true"/>
+</div>
+
+## 🚀 Особенности
+## 🔧 Установка
+## 📄 Документация
