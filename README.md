@@ -187,7 +187,9 @@ graph TD
 - <img src="https://img.icons8.com/offices/24/000000/php-logo.png" width="20"/> **PHP**: 8.0-8.1
 - <img src="https://img.icons8.com/color/24/000000/mysql-logo.png" width="20"/> **MySQL**: 8.1+
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cfsxpupeuk4kot4oyt5vfwrxdm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<!-- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cfsxpupeuk4kot4oyt5vfwrxdm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) -->
+
+<img src="68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e6b697474696e616e782e636f6d2f6170692f766965773f7569643d33316366737870757065756b346b6f74346f7974357666777278646d26636f7665725f696d6167653d74727565267468656.svg">
 
 <!-- ## 🚀 Особенности
 ## 🔧 Установка
