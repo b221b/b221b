@@ -12,6 +12,8 @@
 
 <h3 align="center">🐉Hi, my name is Miroslav, I'm backend developer.</h3>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🐉Hi,+my+name+is+Miroslav,+I'm+backend+developer.;&color=FF0000&center=true)
+
 #
 <h4 align="left">I have knowledge of all major programming languages, including JS, Java, PHP, Python, and C++, if we talk specifically about PHP, I worked on a project based on Yii2, mysql, also developed a CRUD interface on Laravel + a frontend on Blade/React/Vue, also worked with Docker. I have basic knowledge of commands in the Linux & Windows console.</h4>
 
