@@ -108,8 +108,6 @@
 
 ###
 
-[🎵 Слушать oh my little baby boy (jumpstyle) на Яндекс.Музыке](https://music.yandex.ru/album/35922855/track/137459525)
-
 <a href="https://music.yandex.ru/album/35922855/track/137459525" target="_blank">
   <img src="https://img.shields.io/badge/🎵_Listen_on_Yandex.Music-FF0000?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex Music">
 </a>
