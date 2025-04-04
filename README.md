@@ -189,6 +189,6 @@ graph TD
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cfsxpupeuk4kot4oyt5vfwrxdm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
-## 🚀 Особенности
+<!-- ## 🚀 Особенности
 ## 🔧 Установка
-## 📄 Документация
+## 📄 Документация -->
