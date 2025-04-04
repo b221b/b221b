@@ -183,6 +183,55 @@ graph TD
     D --> E
 ```
 
+```mermaid
+erDiagram
+    CUSTOMER ||--o{ ORDER : places
+    ORDER ||--|{ LINE-ITEM : contains
+    PRODUCT ||--|{ LINE-ITEM : includes
+```
+
+```mermaid
+sequenceDiagram
+    Пользователь->>Сервер: Запрос /data
+    Сервер->>БазаДанных: SELECT * FROM table
+    БазаДанных-->>Сервер: Данные
+    Сервер-->>Пользователь: JSON-ответ
+```
+
+```mermaid
+gantt
+    title Проект X
+    dateFormat  YYYY-MM-DD
+    section Разработка
+    Анализ требований :done, a1, 2023-01-01, 7d
+    Реализация :active, a2, after a1, 14d
+    Тестирование :a3, after a2, 7d
+```
+
+```mermaid
+classDiagram
+    class User {
+        +int id
+        +string name
+        +login()
+    }
+    User "1" --> "n" Post
+```
+
+```mermaid
+mindmap
+  root((Идея проекта))
+    Технологии
+      Python
+      SQL
+      API
+    Команда
+      Разработчик
+      Дизайнер
+    Сроки
+      2023-2024
+```
+
 | Option 1 | Option 2 | Option 3 |
 |-----------|-----------|-----------|
 | <img src="https://i.pinimg.com/736x/a1/c2/15/a1c215f8c6587d8d33fd2323b4b8d9f8.jpg" width="200" height="200px"> | <img src="https://i.pinimg.com/736x/02/12/57/02125750c1a860ceb740a6a4d5c391fd.jpg" width="200" height="200px"> | <img src="https://i.pinimg.com/736x/e2/c8/21/e2c82120a3111d153a81596f4b3e71f2.jpg" width="200" height="200px"> |
