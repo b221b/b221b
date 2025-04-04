@@ -47,9 +47,7 @@
 ###
 
 #
-<!-- <img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/648877624326358082/18EBFCD743FB96FF395F3DA280234EE7B4C863E8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  /> -->
-
-<img align="right" height="450" src="68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e6b697474696e616e782e636f6d2f6170692f766965773f7569643d33316366737870757065756b346b6f74346f7974357666777278646d26636f7665725f696d6167653d74727565267468656.svg">
+<img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/648877624326358082/18EBFCD743FB96FF395F3DA280234EE7B4C863E8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###
 
@@ -313,21 +311,21 @@ erDiagram
 ```mermaid
 flowchart TB
     A[SQL Запросы] --> B[SELECT]
-    B --> B1["```sql\nSELECT * FROM users\nWHERE age > 18\nORDER BY name\n```"]
-    B --> B2["```sql\nSELECT count(*), department\nFROM employees\nGROUP BY department\n```"]
+    B --> B1["SELECT * FROM users\nWHERE age > 18\nORDER BY name"]
+    B --> B2["SELECT count(*), department\nFROM employees\nGROUP BY department"]
     
     A --> C[INSERT]
-    C --> C1["```sql\nINSERT INTO products\n(name, price) VALUES\n('Phone', 599.99)\n```"]
+    C --> C1["INSERT INTO products\n(name, price) VALUES\n('Phone', 599.99)"]
     
     A --> D[UPDATE]
-    D --> D1["```sql\nUPDATE employees\nSET salary = salary * 1.1\nWHERE rating > 8\n```"]
+    D --> D1["UPDATE employees\nSET salary = salary * 1.1\nWHERE rating > 8"]
     
     A --> E[DELETE]
-    E --> E1["```sql\nDELETE FROM logs\nWHERE created_at < '2023-01-01'\n```"]
+    E --> E1["DELETE FROM logs\nWHERE created_at < '2023-01-01'"]
     
     A --> F[CREATE]
-    F --> F1["```sql\nCREATE TABLE users (\nid INT PRIMARY KEY,\nname VARCHAR(50)\n)\n```"]
-    F --> F2["```sql\nCREATE INDEX idx_email\nON users(email)\n```"]
+    F --> F1["CREATE TABLE users (\nid INT PRIMARY KEY,\nname VARCHAR(50)\n)"]
+    F --> F2["CREATE INDEX idx_email\nON users(email)"]
 
     style A fill:#4CAF50,stroke:#333,stroke-width:2px
     style B fill:#2196F3,stroke:#333
@@ -341,7 +339,8 @@ flowchart TB
 |-----------|-----------|-----------|
 | <img src="https://i.pinimg.com/736x/a1/c2/15/a1c215f8c6587d8d33fd2323b4b8d9f8.jpg" width="200" height="200px"> | <img src="https://i.pinimg.com/736x/02/12/57/02125750c1a860ceb740a6a4d5c391fd.jpg" width="200" height="200px"> | <img src="https://i.pinimg.com/736x/e2/c8/21/e2c82120a3111d153a81596f4b3e71f2.jpg" width="200" height="200px"> |
 
-### ⚙️ Технические требования
+
+### ⚙️ Технические характеристики
 
 - <img src="https://img.icons8.com/color/24/000000/processor.png" width="20"/> **CPU**: Intel Core i5-12400F
 - <img src="https://img.icons8.com/color/24/000000/memory-slot.png" width="20"/> **RAM**: 32GB DDR4 
@@ -350,9 +349,10 @@ flowchart TB
 - <img src="https://img.icons8.com/offices/24/000000/php-logo.png" width="20"/> **PHP**: 8.0-8.1
 - <img src="https://img.icons8.com/color/24/000000/mysql-logo.png" width="20"/> **MySQL**: 8.1+
 
-<!-- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cfsxpupeuk4kot4oyt5vfwrxdm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) -->
+<img align="left" src="68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e6b697474696e616e782e636f6d2f6170692f766965773f7569643d33316366737870757065756b346b6f74346f7974357666777278646d26636f7665725f696d6167653d74727565267468656.svg">
 
-<img src="68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e6b697474696e616e782e636f6d2f6170692f766965773f7569643d33316366737870757065756b346b6f74346f7974357666777278646d26636f7665725f696d6167653d74727565267468656.svg">
+
+<!-- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cfsxpupeuk4kot4oyt5vfwrxdm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) -->
 
 <!-- ## 🚀 Особенности
 ## 🔧 Установка
