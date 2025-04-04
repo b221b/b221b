@@ -130,4 +130,4 @@
   <p align="right"><em>WOLAPONIA E.EQS</em></p>
 </div>
 
-![Sung Jin Woo Card](https://raw.githubusercontent.com/b221b/b221b/main/sung.svg)
+![Sung Jin Woo Card](https://raw.githubusercontent.com/b221b/b221b/sung.svg)
