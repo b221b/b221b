@@ -96,6 +96,8 @@
 
 ###
 
+<div align="left" style="width: 700px; margin: 0; padding: 0;">
+
 ```mermaid
 mindmap
   root((Идея проекта))
@@ -104,16 +106,24 @@ mindmap
       Yii2
       Laravel
       SQL
+      Vue.js
     Команда
-      Разработчик
+      Backend-разработчик
+      Frontend-разработчик
       Дизайнер
+      Менеджер
     Сроки
-      202X-202X
-    123
-      123
-    321
-      321
+      Планирование: 2025
+      Разработка: 2026
+      Запуск: 2027
+    Бюджет
+      Разработка: $10,000
+      Маркетинг: $5,000
+    Риски
+      Технические сложности
+      Рыночные изменения
 ```
+</div>
 
 ###
 
@@ -132,14 +142,6 @@ int main() {
     return 0;
 }
 ```
-
-<!-- [![Demo](https://img.shields.io/badge/🚀_Live_Demo-FF6B6B?style=for-the-badge)](https://ВАШ_НИК.github.io/РЕПОЗИТОРИЙ)
-
-[![Demo](https://api.screenshotmachine.com/?key=YOUR_KEY&url=https://ВАШ_НИК.github.io/РЕПОЗИТОРИЙ&dimension=720x540)](https://ВАШ_НИК.github.io/РЕПОЗИТОРИЙ)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Добро+пожаловать+в+мой+репозиторий!;Здесь+живёт+крутой+код!&color=FF0000&center=true)
-
-[![3D Model](https://img.shields.io/badge/🦊_3D_Model-View_Online-blue)](https://glitch.com/~YOUR-MODEL) -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
@@ -189,13 +191,7 @@ graph TD
     classDef default fill:#E1F5FE,stroke:#0288D1,color:#333
 ```
 
-```mermaid
-sequenceDiagram
-    Пользователь->>Сервер: Запрос /data
-    Сервер->>БазаДанных: SELECT * FROM table
-    БазаДанных-->>Сервер: Данные
-    Сервер-->>Пользователь: JSON-ответ
-```
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ```mermaid
 erDiagram
@@ -308,6 +304,8 @@ erDiagram
     }
 ```
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 ```mermaid
 flowchart TB
     A[SQL Запросы] --> B[SELECT]
@@ -334,6 +332,8 @@ flowchart TB
     style E fill:#F44336,stroke:#333
     style F fill:#607D8B,stroke:#333
 ```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 | Option 1 | Option 2 | Option 3 |
 |-----------|-----------|-----------|
