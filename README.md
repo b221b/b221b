@@ -174,6 +174,15 @@ graph TD
     classDef default fill:#E1F5FE,stroke:#0288D1,color:#333
 ```
 
+```mermaid
+graph TD
+    A[Начало] --> B{Условие}
+    B -->|Да| C[Действие 1]
+    B -->|Нет| D[Действие 2]
+    C --> E[Конец]
+    D --> E
+```
+
 | Option 1 | Option 2 | Option 3 |
 |-----------|-----------|-----------|
 | <img src="https://i.pinimg.com/736x/a1/c2/15/a1c215f8c6587d8d33fd2323b4b8d9f8.jpg" width="200" height="200px"> | <img src="https://i.pinimg.com/736x/02/12/57/02125750c1a860ceb740a6a4d5c391fd.jpg" width="200" height="200px"> | <img src="https://i.pinimg.com/736x/e2/c8/21/e2c82120a3111d153a81596f4b3e71f2.jpg" width="200" height="200px"> |
