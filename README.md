@@ -108,188 +108,26 @@
 
 ###
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sung Jin Woo Card</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460, #533d7b, #8a2be2);
-            margin: 0;
-            padding: 20px;
-        }
-        
-        .character-card {
-            width: 800px;
-            height: 400px;
-            background-color: rgba(0, 0, 0, 0.7);
-            border-radius: 15px;
-            display: flex;
-            overflow: hidden;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-            color: white;
-            position: relative;
-            border: 1px solid rgba(255, 255, 255, 0.1);
-        }
-        
-        .left-section {
-            width: 30%;
-            padding: 20px;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-            border-right: 1px solid rgba(255, 255, 255, 0.1);
-        }
-        
-        .name {
-            font-size: 28px;
-            font-weight: bold;
-            margin-bottom: 5px;
-            color: #fff;
-        }
-        
-        .id-number {
-            font-size: 18px;
-            color: #8a2be2;
-            margin-bottom: 20px;
-        }
-        
-        .gender {
-            font-size: 16px;
-            color: #aaa;
-            margin-bottom: 20px;
-        }
-        
-        .description {
-            font-size: 12px;
-            color: #ccc;
-            line-height: 1.4;
-            margin-bottom: 20px;
-        }
-        
-        .rank {
-            margin-top: auto;
-        }
-        
-        .rank-title {
-            font-size: 14px;
-            color: #8a2be2;
-            margin-bottom: 5px;
-        }
-        
-        .rank-name {
-            font-size: 20px;
-            font-weight: bold;
-        }
-        
-        .center-section {
-            width: 40%;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            position: relative;
-        }
-        
-        .character-image {
-            width: 250px;
-            height: 250px;
-            background-color: rgba(138, 43, 226, 0.2);
-            border-radius: 50%;
-            border: 3px solid rgba(138, 43, 226, 0.5);
-            position: absolute;
-            left: -50px;
-        }
-        
-        .right-section {
-            width: 30%;
-            padding: 20px;
-            border-left: 1px solid rgba(255, 255, 255, 0.1);
-        }
-        
-        .about-title {
-            font-size: 24px;
-            font-weight: bold;
-            margin-bottom: 20px;
-            color: #8a2be2;
-        }
-        
-        .about-text {
-            font-size: 14px;
-            line-height: 1.5;
-            color: #ccc;
-            margin-bottom: 20px;
-        }
-        
-        .signup {
-            margin-top: 30px;
-        }
-        
-        .signup-title {
-            font-size: 14px;
-            color: #8a2be2;
-            margin-bottom: 5px;
-        }
-        
-        .signup-link {
-            font-size: 16px;
-            color: white;
-            text-decoration: underline;
-        }
-        
-        .footer {
-            position: absolute;
-            bottom: 10px;
-            right: 20px;
-            font-size: 12px;
-            color: #8a2be2;
-        }
-    </style>
-</head>
-<body>
-    <div class="character-card">
-        <div class="left-section">
-            <div>
-                <div class="name">SUNG JIN WOO</div>
-                <div class="id-number">(819)</div>
-                <div class="gender">Male</div>
-                <div class="description">
-                    Shadow Monarch and the protagonist of Solo Leveling. Originally the weakest hunter, he becomes the most powerful after gaining the System.
-                </div>
-            </div>
-            <div class="rank">
-                <div class="rank-title">RANK</div>
-                <div class="rank-name">Shadow Monarch A.K.A</div>
-                <div class="name">SUNG JIN WOO</div>
-                <div class="id-number">(819)</div>
-            </div>
-        </div>
-        
-        <div class="center-section">
-            <div class="character-image"></div>
-        </div>
-        
-        <div class="right-section">
-            <div class="about-title">ABOUT</div>
-            <div class="about-text">
-                Sung Jin Woo (819) It won't be the world's Voluntary Network and allowed down the plan of becoming the Voluntary Steering Network after the war. Re-evaluated land became a flagship.
-            </div>
-            <div class="about-text">
-                We have not been able to do things that are driving the Company during our operations and the world's global economy. The global economy has become an important part of the world's business, and we continue to increase their strength unless re-evaluated.
-            </div>
-            <div class="signup">
-                <div class="signup-title">Sign Up</div>
-                <div class="signup-link">Sign in here</div>
-            </div>
-        </div>
-        
-        <div class="footer">WOLAPONIA E.EQS</div>
-    </div>
-</body>
-</html>
+<div align="center">
+  <table>
+    <tr>
+      <td width="30%">
+        <h3>SUNG JIN WOO (819)</h3>
+        <p>♂️ Male<br>🌑 Shadow Monarch</p>
+        <small>Protagonist of Solo Leveling</small>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://i.pinimg.com/736x/a0/6f/06/a06f067489adeaad7d60d727820d0020.jpg" width="150">
+      </td>
+      <td width="30%">
+        <h3>ABOUT</h3>
+        <p>It won't be the world's Voluntary Network...</p>
+        <h4>RANK</h4>
+        <p>Shadow Monarch A.K.A<br>SUNG JIN WOO (819)</p>
+      </td>
+    </tr>
+  </table>
+  <p align="right"><em>WOLAPONIA E.EQS</em></p>
+</div>
+
+![Sung Jin Woo Card](https://raw.githubusercontent.com/ваш-username/ваш-репозиторий/main/path/to/card.svg)
