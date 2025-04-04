@@ -308,6 +308,34 @@ erDiagram
     }
 ```
 
+```mermaid
+flowchart TD
+    A[SQL Запрос] --> B[SELECT]
+    A --> C[INSERT]
+    A --> D[UPDATE]
+    A --> E[DELETE]
+    A --> F[CREATE]
+    
+    B --> B1["SELECT * FROM users<br>WHERE age > 18<br>ORDER BY name"]
+    B --> B2["SELECT count(*), department<br>FROM employees<br>GROUP BY department"]
+    
+    C --> C1["INSERT INTO products<br>(name, price) VALUES<br>('Phone', 599.99)"]
+    
+    D --> D1["UPDATE employees<br>SET salary = salary * 1.1<br>WHERE rating > 8"]
+    
+    E --> E1["DELETE FROM logs<br>WHERE created_at < '2023-01-01'"]
+    
+    F --> F1["CREATE TABLE users (<br>id INT PRIMARY KEY,<br>name VARCHAR(50)<br>)"]
+    F --> F2["CREATE INDEX idx_email<br>ON users(email)"]
+    
+    style A fill:#4CAF50,stroke:#333
+    style B fill:#2196F3,stroke:#333
+    style C fill:#FF9800,stroke:#333
+    style D fill:#9C27B0,stroke:#333
+    style E fill:#F44336,stroke:#333
+    style F fill:#607D8B,stroke:#333
+```
+
 | Option 1 | Option 2 | Option 3 |
 |-----------|-----------|-----------|
 | <img src="https://i.pinimg.com/736x/a1/c2/15/a1c215f8c6587d8d33fd2323b4b8d9f8.jpg" width="200" height="200px"> | <img src="https://i.pinimg.com/736x/02/12/57/02125750c1a860ceb740a6a4d5c391fd.jpg" width="200" height="200px"> | <img src="https://i.pinimg.com/736x/e2/c8/21/e2c82120a3111d153a81596f4b3e71f2.jpg" width="200" height="200px"> |
