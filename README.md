@@ -175,22 +175,6 @@ graph TD
 ```
 
 ```mermaid
-graph TD
-    A[Начало] --> B{Условие}
-    B -->|Да| C[Действие 1]
-    B -->|Нет| D[Действие 2]
-    C --> E[Конец]
-    D --> E
-```
-
-```mermaid
-erDiagram
-    CUSTOMER ||--o{ ORDER : places
-    ORDER ||--|{ LINE-ITEM : contains
-    PRODUCT ||--|{ LINE-ITEM : includes
-```
-
-```mermaid
 sequenceDiagram
     Пользователь->>Сервер: Запрос /data
     Сервер->>БазаДанных: SELECT * FROM table
@@ -199,37 +183,129 @@ sequenceDiagram
 ```
 
 ```mermaid
-gantt
-    title Проект X
-    dateFormat  YYYY-MM-DD
-    section Разработка
-    Анализ требований :done, a1, 2023-01-01, 7d
-    Реализация :active, a2, after a1, 14d
-    Тестирование :a3, after a2, 7d
-```
-
-```mermaid
-classDiagram
-    class User {
-        +int id
-        +string name
-        +login()
+erDiagram
+    USER ||--o{ USER_INFO : "1:1"
+    USER {
+        int id PK
+        varchar(255) username
+        varchar(255) password
+        varchar(255) authKey
+        tinyint isAdmin
     }
-    User "1" --> "n" Post
+    
+    USER_INFO {
+        int id PK
+        varchar(20) phone_number
+        varchar(255) email
+        int id_user FK
+    }
+
+    KIND_OF_SPORT ||--o{ TRAINERS : "1:N"
+    KIND_OF_SPORT ||--o{ COMPETITIONS : "1:N"
+    KIND_OF_SPORT {
+        int id PK
+        varchar(255) name
+    }
+
+    TRAINERS {
+        int id PK
+        varchar(255) name
+        int id_kind_of_sport FK
+    }
+
+    SPORTS_CLUB ||--o{ SPORTSMAN : "1:N"
+    SPORTS_CLUB {
+        int id PK
+        varchar(255) name
+    }
+
+    SPORTSMAN ||--o{ SPORTSMAN_KIND_OF_SPORT : "1:N"
+    SPORTSMAN ||--o{ SPORTSMAN_TRAINERS : "1:N"
+    SPORTSMAN ||--o{ SPORTSMAN_COMPETITIONS : "1:N"
+    SPORTSMAN ||--o{ SPORTSMAN_PRIZEWINNER : "1:N"
+    SPORTSMAN {
+        int id PK
+        varchar(255) name
+        int discharge
+        int id_sports_club FK
+    }
+
+    STRUCTURE ||--o{ COMPETITIONS : "1:N"
+    STRUCTURE {
+        int id PK
+        varchar(255) name
+        varchar(255) type
+    }
+
+    COMPETITIONS ||--o{ SPORTSMAN_COMPETITIONS : "1:N"
+    COMPETITIONS ||--o{ ORGANISATIONS_COMPETITIONS : "1:N"
+    COMPETITIONS ||--o{ SPORTSMAN_PRIZEWINNER : "1:N"
+    COMPETITIONS {
+        int id PK
+        varchar(255) name
+        int id_structure FK
+        int id_kind_of_sport FK
+        date event_date
+    }
+
+    ORGANISATIONS ||--o{ ORGANISATIONS_COMPETITIONS : "1:N"
+    ORGANISATIONS {
+        int id PK
+        varchar(255) full_name
+    }
+
+    PRIZEWINNER ||--o{ SPORTSMAN_PRIZEWINNER : "1:N"
+    PRIZEWINNER {
+        int id PK
+        int prize_place
+        varchar(255) reward
+    }
+
+    SPORTSMAN_TRAINERS {
+        int id PK
+        int id_sportsman FK
+        int id_trainers FK
+    }
+
+    SPORTSMAN_KIND_OF_SPORT {
+        int id PK
+        int id_sportsman FK
+        int id_kind_of_sport FK
+    }
+
+    SPORTSMAN_COMPETITIONS {
+        int id PK
+        int id_sportsman FK
+        int id_competitions FK
+    }
+
+    ORGANISATIONS_COMPETITIONS {
+        int id PK
+        int id_organisations FK
+        int id_competitions FK
+    }
+
+    SPORTSMAN_PRIZEWINNER {
+        int id PK
+        int id_competitions FK
+        int id_sportsman FK
+        int id_prizewinner FK
+    }
 ```
 
 ```mermaid
 mindmap
   root((Идея проекта))
     Технологии
-      Python
+      PHP
+      Yii2
+      Laravel
       SQL
-      API
     Команда
       Разработчик
       Дизайнер
     Сроки
-      2023-2024
+      202X-202X
 ```
 
 | Option 1 | Option 2 | Option 3 |
