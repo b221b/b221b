@@ -108,23 +108,14 @@
 
 ###
 
-```python
-def hello_world():
-    print("Привет, GitHub!")
-```
+```c++
+#include <iostream>
 
-[//]: # (Пример из файла)
-```python
-# @file: main.py
-from module import function
-
-
----
-
-### 4. **Встроенный просмотр GitHub Pages**
-Через изображение-ссылку:
-```markdown
-[![Demo](https://img.shields.io/badge/🚀_Live_Demo-FF6B6B?style=for-the-badge)](https://ВАШ_НИК.github.io/РЕПОЗИТОРИЙ)
+using namespace std;
+int main() {
+    cout << "Hello World!" << endl;
+    return 0;
+}
 ```
 
 [![Demo](https://img.shields.io/badge/🚀_Live_Demo-FF6B6B?style=for-the-badge)](https://ВАШ_НИК.github.io/РЕПОЗИТОРИЙ)
@@ -139,27 +130,64 @@ from module import function
 
 ```mermaid
 graph TD
-    A[Идея] --> B(Код)
-    B --> C{Работает?}
-    C -->|Да| D[🎉]
-    C -->|Нет| E[🔧]
+    A[Формулировка задачи] --> B[Написание SQL-запроса]
+    B --> C{Тип запроса?}
+    C -->|SELECT| D[Проектирование выборки]
+    C -->|INSERT/UPDATE| E[Проверка ограничений]
+    C -->|JOIN| F[Определение таблиц связи]
+    
+    D --> G[Добавление условий WHERE]
+    E --> H[Валидация данных]
+    F --> I[Выбор типа соединения]
+    
+    G --> J[Добавление индексов]
+    H --> K[Проверка FOREIGN KEY]
+    I --> L[Оптимизация JOIN]
+    
+    J --> M[EXPLAIN ANALYZE]
+    K --> M
+    L --> M
+    
+    M --> N{Проблемы?}
+    N -->|Нет| O[Запуск в продакшн]
+    N -->|Да| P[Оптимизация]
+    
+    P --> Q[Пересмотр индексов]
+    P --> R[Изменение структуры запроса]
+    P --> S[Кэширование результатов]
+    
+    Q --> M
+    R --> M
+    S --> T[Настройка репликации]
+    
+    O --> U[Мониторинг производительности]
+    T --> U
+    U --> V{Запрос медленный?}
+    V -->|Да| P
+    V -->|Нет| W[Архивирование старых данных]
+    
+    W --> X[Готово! 🎯]
+    
+    style A fill:#f9f,stroke:#333
+    style X fill:#4CAF50,stroke:#333
+    classDef query fill:#E1F5FE,stroke:#0288D1
+    class B,D,E,F,G,H,I,J,K,L query
 ```
 
-| Функция 1 | Функция 2 |
-|-----------|-----------|
-| <img src="https://i.pinimg.com/736x/89/b9/05/89b905a6d34d3e3c63a3610a0b1f495a.jpg" width="200"> | <img src="https://i.pinimg.com/736x/77/c3/4b/77c34b41be09ad70218a963ce54fbd26.jpg" width="155"> |
+| Option 1 | Option 2 | Option 3 |
+|-----------|-----------|-----------|
+| <img src="https://i.pinimg.com/736x/a1/c2/15/a1c215f8c6587d8d33fd2323b4b8d9f8.jpg" width="200" height="200px"> | <img src="https://i.pinimg.com/736x/02/12/57/02125750c1a860ceb740a6a4d5c391fd.jpg" width="200" height="200px"> | <img src="https://i.pinimg.com/736x/e2/c8/21/e2c82120a3111d153a81596f4b3e71f2.jpg" width="200" height="200px"> |
 
-- 🖥️ **CPU**: Intel i5+
-- 🧠 **RAM**: 8GB+ 
-- 🐍 **Python**: 3.8+
+### ⚙️ Технические требования
 
-<div align="center">
-  <img src="https://github.com/kittinan/spotify-github-profile/blob/master/img/default.svg"/>
-</div>
+- <img src="https://img.icons8.com/color/24/000000/processor.png" width="20"/> **CPU**: Intel Core i5-12400F
+- <img src="https://img.icons8.com/color/24/000000/memory-slot.png" width="20"/> **RAM**: 32GB DDR4 
+- <img src="https://img.icons8.com/color/24/000000/gpu.png" width="20"/> **GPU**: NVIDIA RTX 3060Ti
+- <img src="https://img.icons8.com/color/24/000000/apache.png" width="20"/> **Apache**: 2.4.x
+- <img src="https://img.icons8.com/offices/24/000000/php-logo.png" width="20"/> **PHP**: 8.0-8.1
+- <img src="https://img.icons8.com/color/24/000000/mysql-logo.png" width="20"/> **MySQL**: 8.1+
 
-<div align="center">
-  <img src="https://github.com/kittinan/spotify-github-profile/blob/master/img/novatorem.svg"/>
-</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cfsxpupeuk4kot4oyt5vfwrxdm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🚀 Особенности
 ## 🔧 Установка
