@@ -131,3 +131,6 @@
 </div>
 
 ![Sung Jin Woo Card](https://github.com/b221b/b221b/sung.svg)
+![Sung Jin Woo Card](https://github.com/b221b/sung.svg)
+![Sung Jin Woo Card](https://github.com/b221b/sung2.jpg)
+![Sung Jin Woo Card](https://github.com/b221b/b221b/sung2.jpg)
