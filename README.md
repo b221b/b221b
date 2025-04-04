@@ -107,30 +107,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="30%">
-        <h3>SUNG JIN WOO (819)</h3>
-        <p>♂️ Male<br>🌑 Shadow Monarch</p>
-        <small>Protagonist of Solo Leveling</small>
-      </td>
-      <td width="40%" align="center">
-        <img src="https://i.pinimg.com/736x/a0/6f/06/a06f067489adeaad7d60d727820d0020.jpg" width="150">
-      </td>
-      <td width="30%">
-        <h3>ABOUT</h3>
-        <p>It won't be the world's Voluntary Network...</p>
-        <h4>RANK</h4>
-        <p>Shadow Monarch A.K.A<br>SUNG JIN WOO (819)</p>
-      </td>
-    </tr>
-  </table>
-  <p align="right"><em>WOLAPONIA E.EQS</em></p>
-</div>
-
-![Sung Jin Woo Card](https://github.com/b221b/b221b/sung.svg)
-![Sung Jin Woo Card](https://github.com/b221b/sung.svg)
-![Sung Jin Woo Card](https://github.com/b221b/sung2.jpg)
-![Sung Jin Woo Card](https://github.com/b221b/b221b/sung2.jpg)
