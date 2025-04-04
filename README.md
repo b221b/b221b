@@ -81,10 +81,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 </div>
 
-<!--
-<img align="left" height="250" src="https://camo.githubusercontent.com/4171d19523de6a8ce512c3991494442bfcd6e6c52ea76975ab7dba1f6d1bda7d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f796f67657368776172616e30312f6769746875622d73746174732d7465726d696e616c2d7374796c65406c61746573742f7468656d65732f6861636b65722e737667"  />
--->
-
 ###
 
 <div align="right">
@@ -97,6 +93,23 @@
   <img src="https://streak-stats.demolab.com?user=b221b&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=b221b&theme=redical" height="150" alt="activity-graph graph"  />
 </div>
+
+###
+
+```mermaid
+mindmap
+  root((Идея проекта))
+    Технологии
+      PHP
+      Yii2
+      Laravel
+      SQL
+    Команда
+      Разработчик
+      Дизайнер
+    Сроки
+      202X-202X
+```
 
 ###
 
@@ -116,13 +129,13 @@ int main() {
 }
 ```
 
-[![Demo](https://img.shields.io/badge/🚀_Live_Demo-FF6B6B?style=for-the-badge)](https://ВАШ_НИК.github.io/РЕПОЗИТОРИЙ)
+<!-- [![Demo](https://img.shields.io/badge/🚀_Live_Demo-FF6B6B?style=for-the-badge)](https://ВАШ_НИК.github.io/РЕПОЗИТОРИЙ)
 
 [![Demo](https://api.screenshotmachine.com/?key=YOUR_KEY&url=https://ВАШ_НИК.github.io/РЕПОЗИТОРИЙ&dimension=720x540)](https://ВАШ_НИК.github.io/РЕПОЗИТОРИЙ)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Добро+пожаловать+в+мой+репозиторий!;Здесь+живёт+крутой+код!&color=FF0000&center=true)
 
-[![3D Model](https://img.shields.io/badge/🦊_3D_Model-View_Online-blue)](https://glitch.com/~YOUR-MODEL)
+[![3D Model](https://img.shields.io/badge/🦊_3D_Model-View_Online-blue)](https://glitch.com/~YOUR-MODEL) -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
@@ -289,21 +302,6 @@ erDiagram
         int id_sportsman FK
         int id_prizewinner FK
     }
-```
-
-```mermaid
-mindmap
-  root((Идея проекта))
-    Технологии
-      PHP
-      Yii2
-      Laravel
-      SQL
-    Команда
-      Разработчик
-      Дизайнер
-    Сроки
-      202X-202X
 ```
 
 | Option 1 | Option 2 | Option 3 |
