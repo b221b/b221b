@@ -153,19 +153,13 @@ int main() {
 ![Календарь](https://ghchart.rshah.org/b221b)
 </div>
 
-<div style="width:100%; height:3px; background: linear-gradient(90deg, 
-    #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #9400d3, #ff0000); 
-    background-size: 800% 100%; 
-    animation: smoothRainbow 4s linear infinite;
-    border-radius: 2px;">
+<div align="center">
+  <svg width="100%" height="2">
+    <rect width="100%" height="4">
+      <animate attributeName="fill" values="#ff0000;#00ff00;#0000ff;#ff00ff;#ffff00;#ff0000" dur="3s" repeatCount="indefinite"/>
+    </rect>
+  </svg>
 </div>
-
-<style>
-  @keyframes smoothRainbow {
-    0% { background-position: 0% 50% }
-    100% { background-position: 100% 50% }
-  }
-</style>
 
 ###
 
@@ -282,18 +276,13 @@ erDiagram
     }
 ```
 
-<div style="width:100%; height:3px; background: linear-gradient(90deg, 
-    #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #9400d3, #ff0000); 
-    background-size: 800% 100%; 
-    animation: smoothRainbow 4s linear infinite;
-    border-radius: 2px;"></div>
-
-<style>
-  @keyframes smoothRainbow {
-    0% { background-position: 0% 50% }
-    100% { background-position: 100% 50% }
-  }
-</style>
+<div align="center">
+  <svg width="100%" height="2">
+    <rect width="100%" height="4">
+      <animate attributeName="fill" values="#ff0000;#00ff00;#0000ff;#ff00ff;#ffff00;#ff0000" dur="3s" repeatCount="indefinite"/>
+    </rect>
+  </svg>
+</div>
 
 <br>
 
