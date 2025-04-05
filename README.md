@@ -157,7 +157,8 @@ int main() {
     #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #9400d3, #ff0000); 
     background-size: 800% 100%; 
     animation: smoothRainbow 4s linear infinite;
-    border-radius: 2px;"></div>
+    border-radius: 2px;">
+</div>
 
 <style>
   @keyframes smoothRainbow {
