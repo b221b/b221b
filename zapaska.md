@@ -150,8 +150,74 @@ flowchart TB
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cfsxpupeuk4kot4oyt5vfwrxdm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
-<img align="center" width="40%" src="68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e6b697474696e616e782e636f6d2f6170692f766965773f7569643d33316366737870757065756b346b6f74346f7974357666777278646d26636f7665725f696d6167653d74727565267468656.svg">
+<img align="center" width="40%" src="img/68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e6b697474696e616e782e636f6d2f6170692f766965773f7569643d33316366737870757065756b346b6f74346f7974357666777278646d26636f7665725f696d6167653d74727565267468656.svg">
 
 ## 🚀 Особенности
 ## 🔧 Установка
 ## 📄 Документация
+
+```mermaid
+mindmap
+  root((Project idea))
+    Technologies
+      PHP
+      Yii2
+      Laravel
+      SQL
+      Vue.js
+    Team
+      Backend-developer
+      Frontend-developer
+      Designer
+      Manager
+    Timeline
+      Planning: 2025
+      Development: 2026
+      Launch: 2027
+    Budget
+      Development: $10,000
+      Marketing: $5,000
+    Risks
+      Technical difficulties
+      Market changes
+```
+
+```mermaid
+stateDiagram-v2
+    [*] --> SELECT
+    SELECT --> FROM
+    SELECT --> Список_столбцов
+    SELECT --> DISTINCT
+    SELECT --> Алиасы_AS
+    SELECT --> Агрегатные_функции
+    Агрегатные_функции --> COUNT
+    Агрегатные_функции --> SUM
+    Агрегатные_функции --> AVG
+    Агрегатные_функции --> MIN
+    Агрегатные_функции --> MAX
+
+    FROM --> WHERE
+    FROM --> Основная_таблица
+    FROM --> JOIN
+    FROM --> INNER_JOIN
+    FROM --> LEFT_JOIN
+    FROM --> RIGHT_JOIN
+    FROM --> FULL_JOIN
+
+    WHERE --> GROUP_BY
+    WHERE --> Условия
+    WHERE --> Логические_операторы
+    WHERE --> IN
+    WHERE --> BETWEEN
+    WHERE --> LIKE
+    WHERE --> IS_NULL
+
+    GROUP_BY --> ORDER_BY
+    GROUP_BY --> HAVING
+
+    ORDER_BY --> LIMIT/OFFSET
+    ORDER_BY --> ASC
+    ORDER_BY --> DESC
+
+    LIMIT/OFFSET --> [*]
+```

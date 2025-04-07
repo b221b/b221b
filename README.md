@@ -100,28 +100,45 @@
 
 ```mermaid
 mindmap
-  root((Project idea))
-    Technologies
-      PHP
-      Yii2
-      Laravel
-      SQL
-      Vue.js
-    Team
-      Backend-developer
-      Frontend-developer
-      Designer
-      Manager
-    Timeline
-      Planning: 2025
-      Development: 2026
-      Launch: 2027
-    Budget
-      Development: $10,000
-      Marketing: $5,000
-    Risks
-      Technical difficulties
-      Market changes
+  root((SQL Запрос))
+    SELECT
+      Список столбцов
+      DISTINCT
+      Алиасы AS
+      Агрегатные функции
+        COUNT
+        SUM
+        AVG
+        MIN
+        MAX
+    FROM
+      Основная таблица
+      JOIN
+        INNER JOIN
+        LEFT JOIN
+        RIGHT JOIN
+        FULL JOIN
+    WHERE
+      Условия
+      Логические операторы AND, OR, NOT
+      IN список значений
+      BETWEEN
+      LIKE
+      IS NULL
+    GROUP BY
+      Группировка по столбцам
+      HAVING
+    ORDER BY
+      ASC по возрастанию
+      DESC по убыванию
+      Сортировка по нескольким столбцам
+    LIMIT/OFFSET
+      Ограничение количества строк
+      Пагинация
+    Подзапросы
+      В WHERE
+      В FROM
+      В SELECT
 ```
 </div>
 
@@ -275,12 +292,166 @@ erDiagram
 <br>
 
 <div align="center">
-  <img src="view.svg" style="width: 90%; height: auto;" />
+  <img src="img/view.svg" style="width: 90%; height: auto;" />
 </div>
 
 
 ###
 
+## Example of "Hello World" in different languages
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+
+<details>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" alt="Python" title="Python"/></summary>
+
+```python
+print("Hello, World!")
+```
+</details>
+
+<details>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" title="JavaScript"/></summary>
+
+```javascript
+console.log("Hello, World!");
+```
+</details>
+
+<details>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32" alt="Java" title="Java"/></summary>
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
+</details>
+
+<details>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32" alt="C#" title="C#"/></summary>
+
+```csharp
+using System;
+
+class Program {
+    static void Main() {
+        Console.WriteLine("Hello, World!");
+    }
+}
+```
+</details>
+
+<details>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32" alt="C++" title="C++"/></summary>
+
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
+```
+</details>
+
+<details>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="32" height="32" alt="Go" title="Go"/></summary>
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hello, World!");
+}
+```
+</details>
+
+<details>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="32" height="32" alt="Ruby" title="Ruby"/></summary>
+
+```ruby
+puts "Hello, World!"
+```
+</details>
+
+<details>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="32" height="32" alt="Rust" title="Rust"/></summary>
+
+```rust
+fn main() {
+    println!("Hello, World!");
+}
+```
+</details>
+
+<details>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="32" height="32" alt="Swift" title="Swift"/></summary>
+
+```swift
+print("Hello, World!")
+```
+</details>
+
+<details>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="32" height="32" alt="Kotlin" title="Kotlin"/></summary>
+
+```kotlin
+fun main() {
+    println("Hello, World!")
+}
+```
+</details>
+
+<details>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32" height="32" alt="PHP" title="PHP"/></summary>
+
+```php
+<?php
+echo "Hello, World!";
+?>
+```
+</details>
+
+<details>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" title="TypeScript"/></summary>
+
+```typescript
+console.log("Hello, World!");
+```
+</details>
+
+<details>
+<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="32" height="32" alt="Dart" title="Dart"/></summary>
+
+```dart
+void main() {
+  print('Hello, World!');
+}
+```
+</details>
+
+</div>
+
 ###
+
+```mermaid
+timeline
+    title Эволюция SQL синтаксиса
+
+    1986 : SQL-86 (первый стандарт) : SELECT e.NAME, d.DEPT_NAME <br> FROM EMPLOYEES e, DEPARTMENTS d <br> WHERE e.DEPT_NO = d.DEPT_NO
+
+    1992 : SQL-92 (JOIN) : SELECT e.NAME, d.DEPT_NAME <br> FROM EMPLOYEES e <br> JOIN DEPARTMENTS d ON e.DEPT_NO = d.DEPT_NO
+
+    1999 : SQL-1999 (подзапросы) : WITH DeptAvg AS (SELECT DEPT_NO, AVG(SALARY) s AvgSal <br> FROM EMPLOYEES <br> GROUP BY DEPT_NO) <br> SELECT e.NAME, e.SALARY <br> FROM EMPLOYEES e <br> JOIN DeptAvg d ON e.DEPT_NO = d.DEPT_NO <br> WHERE e.SALARY > d.AvgSal
+
+    2003 : SQL-2003 (оконные функции) : SELECT NAME, SALARY, DEPT_NO, RANK() <br> OVER (PARTITION BY DEPT_NO ORDER BY SALARY DESC) as RankInDept FROM EMPLOYEES
+
+    2011 : SQL-2011 (темпоральные таблицы) : SELECT * FROM EMPLOYEES <br> FOR SYSTEM_TIME AS OF '2020-01-01' <br> WHERE DEPT_NO = 10
+```
 
 [https://github.com/b221b/yii2]: ссылка
