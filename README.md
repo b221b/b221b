@@ -300,7 +300,7 @@ erDiagram
 
 ## Example of "Hello World" in different languages
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px; margin-bottom: 20px;">
+<div style="align: center; display: flex; flex-wrap: wrap; gap: 30px; margin-bottom: 20px;">
 
 <details>
 <summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" alt="Python" title="Python"/></summary>
