@@ -380,16 +380,6 @@ puts "Hello, World!"
 </details>
 
 <details>
-<summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="32" height="32" alt="Rust" title="Rust"/></summary>
-
-```rust
-fn main() {
-    println!("Hello, World!");
-}
-```
-</details>
-
-<details>
 <summary><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="32" height="32" alt="Swift" title="Swift"/></summary>
 
 ```swift
