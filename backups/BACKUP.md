@@ -272,20 +272,11 @@ erDiagram
     }
 ```
 <br>
-<img align="left" src="img/kod.png" width="100%">
-
-<img align="left" src="img/earth.gif" width="10%">
-<img align="right" src="img/earth.gif" width="10%">
-<img align="right" src="img/earth.gif" width="10%">
-<img align="right" src="img/earth.gif" width="10%">
-<img align="right" src="img/earth.gif" width="10%">
-<img align="right" src="img/earth.gif" width="10%">
-<img align="right" src="img/earth.gif" width="10%">
-<img align="right" src="img/earth.gif" width="10%">
-<img align="right" src="img/earth.gif" width="10%">
-<img align="right" src="img/earth.gif" width="10%">
-
-<img align="right" src="img/yii2_web.png" width="100%">
+<div align="center">
+  <img src="img/kod.png" width="100%">
+<br>
+  <img src="img/yii2_web.png" width="100%">
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
