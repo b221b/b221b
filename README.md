@@ -273,7 +273,7 @@ erDiagram
 ```
 
 <br>
-<img align="left" src="img/image_2025-04-08_15-01-33.png" width="100%">
+<img align="left" src="img/0410.gif" width="100%">
 <img align="left" src="img/kod.png" width="100%">
 
 <img align="left" src="img/earth.gif" width="10%">
