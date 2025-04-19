@@ -5,7 +5,7 @@
 </div> -->
 
 <div style="width: 100%; overflow: hidden; position: relative;">
-  <img src="https://i.pinimg.com/originals/a1/bb/b4/a1bbb475262edc9f2704fce9d7b4aec3.gif" style="width: 100%; height: auto; display: block;" />
+  <img src="img/py/helloWorld.png" style="width: 100%; height: auto; display: block;" />
 </div>
 
 ###
