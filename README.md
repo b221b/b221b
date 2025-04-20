@@ -226,7 +226,7 @@ erDiagram
 
 <br>
 <img align="left" src="img/0410.gif" width="100%">
-<img align="left" src="img/kod.png" width="100%">
+<img align="left" src="img/11q.png" width="100%">
 
 <img align="left" src="img/earth.gif" width="10%">
 <img align="right" src="img/earth.gif" width="10%">
