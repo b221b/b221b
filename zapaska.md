@@ -367,3 +367,50 @@ timeline
 
     2011 : SQL-2011 (темпоральные таблицы) : SELECT * FROM EMPLOYEES <br> FOR SYSTEM_TIME AS OF '2020-01-01' <br> WHERE DEPT_NO = 10
 ```
+
+
+<div align="left" style="width: 700px; margin: 0; padding: 0;">
+
+```mermaid
+mindmap
+  root((SQL Запрос))
+    SELECT
+      Список столбцов
+      DISTINCT
+      Алиасы AS
+      Агрегатные функции
+        COUNT
+        SUM
+        AVG
+        MIN
+        MAX
+    FROM
+      Основная таблица
+      JOIN
+        INNER JOIN
+        LEFT JOIN
+        RIGHT JOIN
+        FULL JOIN
+    WHERE
+      Условия
+      Логические операторы AND, OR, NOT
+      IN список значений
+      BETWEEN
+      LIKE
+      IS NULL
+    GROUP BY
+      Группировка по столбцам
+      HAVING
+    ORDER BY
+      ASC по возрастанию
+      DESC по убыванию
+      Сортировка по нескольким столбцам
+    LIMIT/OFFSET
+      Ограничение количества строк
+      Пагинация
+    Подзапросы
+      В WHERE
+      В FROM
+      В SELECT
+```
+</div>

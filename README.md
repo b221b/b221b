@@ -96,54 +96,6 @@
 
 ###
 
-<div align="left" style="width: 700px; margin: 0; padding: 0;">
-
-```mermaid
-mindmap
-  root((SQL Запрос))
-    SELECT
-      Список столбцов
-      DISTINCT
-      Алиасы AS
-      Агрегатные функции
-        COUNT
-        SUM
-        AVG
-        MIN
-        MAX
-    FROM
-      Основная таблица
-      JOIN
-        INNER JOIN
-        LEFT JOIN
-        RIGHT JOIN
-        FULL JOIN
-    WHERE
-      Условия
-      Логические операторы AND, OR, NOT
-      IN список значений
-      BETWEEN
-      LIKE
-      IS NULL
-    GROUP BY
-      Группировка по столбцам
-      HAVING
-    ORDER BY
-      ASC по возрастанию
-      DESC по убыванию
-      Сортировка по нескольким столбцам
-    LIMIT/OFFSET
-      Ограничение количества строк
-      Пагинация
-    Подзапросы
-      В WHERE
-      В FROM
-      В SELECT
-```
-</div>
-
-###
-
 <div style="width: 100%; overflow: hidden; position: relative;">
   <img src="https://i.pinimg.com/originals/b8/02/72/b8027272774cf4a075e1112e4aec20b3.gif" style="width: 100%; height: auto; display: block;" />
 </div>
